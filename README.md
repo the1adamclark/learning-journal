@@ -17,7 +17,7 @@ My name is Adam J Clark, I come from a manufacturing backround and have a deep l
 
 I hope to learn some new software development tools and practices for use in my head first dive into Industry 4.0 and IoT worlds.
 
-For a little more info on me and my work, feel free to check out my profile page on [GitHub Pages]()
+For a little more info on me and my work, feel free to check out my profile page on [the1adamclark](https://github.com/the1adamclark)
 
 
 
