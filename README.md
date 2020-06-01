@@ -1,10 +1,10 @@
-#Growth Mindset#
+# Growth Mindset
 
-## _What it Growth Mindset_ ##
+## _What it Growth Mindset_ 
 
 *** The growth mindset is what I would call crossing an "open mind" with a "positive attitude" ***
 
-### a few key factors in growth mindset are as follows: ###
+### a few key factors in growth mindset are as follows: 
 
 * embrace challenges
 * learns from criticism 
