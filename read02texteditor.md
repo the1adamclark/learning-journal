@@ -9,7 +9,11 @@
     *varieties of themes
     *as well as a plethora of extensions
     
-  
+ Another key feature of some text editors is the use of Emmet, this is helpful when coding HTML or CSS
+ 
+ ###WHAT TEXT EDITOR IS THE BEST TEXT EDITOR
 
   - The best text editor in short is the one you feel most comfortable with regardless of the name
-  - the reason these are the best editors is purely because you feel most 
+ 
+  
+  
