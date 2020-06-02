@@ -1,4 +1,4 @@
-#MARKDOWN ON GITHUB
+#MARKDOWN ON GITHUB#
   ##here is some of what you need to know
   * Markdown is a format developed for GitHub that is easy to use
   * Markdown is simply regular text with non-alphabetical characters 
