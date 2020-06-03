@@ -19,8 +19,8 @@ As every student in @DeltaV Code 102 class has said at one point or another this
   **Local Version Control** | **Centralized Version Control** | **Distributed Version Control**
   ------------------------|-----------------------------|-------------------------------
   one database to store all changes to files |  same as LVC only multiple users or clients can access | allows clients to create mirrored repositories  
-  original VCS created many years ago | streamlined the collaboration process | These data backups can be easily be placed on the server to replace any lost information
- | allows programmers to have more knowledge of team members’ activities with certain files | programmers working in teams can collaborate with each other in various ways to complete a joint project 
+  original VCS created many years ago | streamlined the collaboration process | These data backups can be easily be placed on the server to replace any lost information |
+ | allows programmers to have more knowledge of team members’ activities with certain files | programmers working in teams can collaborate with each other in various ways to complete a joint project | 
 | gives administrators much more control over divvying up revision privileges | enables the use of various simultaneous workflows
   
   
