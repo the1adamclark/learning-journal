@@ -6,7 +6,7 @@
 As every student in @DeltaV Code 102 class has said at one point or another this week
   > What is git and why do we even need this 
   
-  -git is, put simply, a **V**ersion **C**ontrol **S**ystem or _**VCS**_ for short
+  - **git** is, put simply, a **V**ersion **C**ontrol **S**ystem or _**VCS**_ for short
   
   _**what does version control do for my code?**_  :weary: you may ask....
     according to the training module for git found by clicking here at [udemy](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
