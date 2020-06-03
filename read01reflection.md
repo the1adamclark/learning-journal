@@ -18,14 +18,14 @@
              - presentation points
                  - and other information breakdown
                  
-    *sometimes nesting isnt necessary for bullet points
-     *when the information does not break down as far
-     *you just use them like this
+    * sometimes nesting isnt necessary for bullet points
+     * when the information does not break down as far
+     * you just use them like this
      
      ## SO TO SUMMARIZE...HOW DID I DO?
-     -[]Not bad for a first timer :SMIRK:
-     -[]I FULLY UNDERSTANT MARKDOWN NOW :MAN_TEACHER:
-     -[]I JUST GAVE UP 5 MINUTES OF MY LIFE I WILL NEVER GET BACK :POOP:
+     - []Not bad for a first timer :SMIRK:
+     - []I FULLY UNDERSTANT MARKDOWN NOW :MAN_TEACHER:
+     - []I JUST GAVE UP 5 MINUTES OF MY LIFE I WILL NEVER GET BACK :POOP:
      
      
  
