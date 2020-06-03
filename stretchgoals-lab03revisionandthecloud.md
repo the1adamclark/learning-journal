@@ -1,6 +1,6 @@
 # STRETCH GOALS FOR LAB03
 
- _## What did I learn? or what did it teach me... ##_
+ #_What did I learn? or what did it teach me..._
   1. It gets easier the more you do it
   2. I need to make my comments about why I made the change more than what the change was
   3. Affective Commit comments pay dividends down the road when code maintenence is required
