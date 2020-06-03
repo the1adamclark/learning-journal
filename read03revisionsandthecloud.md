@@ -15,6 +15,12 @@ As every student in @DeltaV Code 102 class has said at one point or another this
     Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through   version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified.
   
   
+  There are 3 types of version control once you get deeper into **git** 
+  **Local Version Control | Centralized Version Control | Distributed Version Control **
+  ------------------------|-----------------------------|-------------------------------
+  one database to store all changes to files |  same as LVC only multiple users or clients can access | allows clients to create mirrored repositories   
+  
+  
   
   
 
