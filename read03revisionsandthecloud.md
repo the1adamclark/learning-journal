@@ -16,9 +16,10 @@ As every student in @DeltaV Code 102 class has said at one point or another this
   
   
   There are 3 types of version control once you get deeper into **git** 
-  **Local Version Control | Centralized Version Control | Distributed Version Control **
+  ** Local Version Control | Centralized Version Control | Distributed Version Control **
   ------------------------|-----------------------------|-------------------------------
-  one database to store all changes to files |  same as LVC only multiple users or clients can access | allows clients to create mirrored repositories   
+  one database to store all changes to files |  same as LVC only multiple users or clients can access | allows clients to create mirrored repositories  
+  
   
   
   
