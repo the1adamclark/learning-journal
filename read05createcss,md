@@ -1,1 +1,32 @@
+# JUST A SPLASH OF COLOR AND STYLE WITH CSS
 
+## What is CSS and what does it do for a website
+  * CSS stands for Cascading Style Sheets and was originally introduced around 1996.
+  * CSS adds color and style to a website so it does not look as bland and boring as a simple word document
+  
+### How does it work
+    
+    1. CSS associates style rules with HTML elements, meaninig via rules you can also add style and color to each part individually
+    or to the entire page as a whole.
+    
+  * Color brings a page to life and also can set the mood of the user, define contrast for or add a level of activty to your page such
+  as hyperlinks changing color after being viewed. I know that is one of my most recognized hidden benefits of CSS!
+  
+### When using CSS code you need to understand color a lot better, the world of **R**eds **G**reens and **B**lues classhes with the
+worlds of **1's** and **0's** to creat _Hexadecimal_ numbers or _Hex Codes_. You can also just stick with the tried and true 
+Color Names...however, there are only **147** registered names to choose from and far more colors in the world than that.
+
+**CSS** like everything else in the coding world of web development and the world wide web, has been update with newer versions to 
+add more capability to the software.
+
+    * starting with CSS1 in 1996, they quickly developed CSS2 and the current update to CSS3 has been on going for years.
+    
+    
+  ## where to add your CSS code.
+  
+        *generally speaking it is housed in a separate file that is called out in the first few lines of your HTML code,
+          *it is done whtis way primarily because it gives you better control of the code and how it functions.
+          * sometimes it will be included directly into the HTML pages with the sites are much simpler or are being 
+          produced from a templated web building service, but even then it should still be limited in that practice.
+          
+  ## CSS3 introduced the use of _Opacity_ into the color seleciton adding RGBA and HSLA values as well.
