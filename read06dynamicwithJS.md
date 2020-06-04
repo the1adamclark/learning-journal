@@ -4,7 +4,7 @@
 
   ### here is a javascript object breakdown for you, firt we will look at the full object
   
-      **_ document.write('Good Afternoon!'); _**
+       document.write('Good Afternoon!');
       
     Here is how that breaks down to its individual components
     
