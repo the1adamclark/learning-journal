@@ -1,4 +1,4 @@
-#THE WORLD IS JUST 1'S AND 0'S
+# THE WORLD IS JUST 1'S AND 0'S
 ## a breakdown of how a computer works
 
 a computer is a simple machine that does complex things. All of the complex things a computer can do and all of the ways it
