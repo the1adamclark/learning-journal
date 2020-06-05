@@ -24,4 +24,8 @@ Attributes tell us more about the element (the complete sum of the tags and the 
 
 # CSS stands for Cascading Style Sheets and will basically let you add color and designs to your website
 
+<<<<<<< HEAD
 # javaScript works with HTML and CSS to as functionality to your website or web pages. 
+=======
+# javaScript works with HTML and CSS to as functionality to your website or web pages. 
+>>>>>>> 21ef6d47f446c083720f6bfedeaf6a632aa09863
